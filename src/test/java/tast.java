@@ -84,4 +84,8 @@ public class tast {
             System.out.println(doc.get("title"));
         }
     }
+   @Test
+    public void aaa() {
+    System.out.println("成功了");
+    }
 }
